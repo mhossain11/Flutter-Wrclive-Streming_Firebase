@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207739042226",
+    "project_id": "webrtcstore",
+    "storage_bucket": "webrtcstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207739042226:android:9ed805452eed4f9bf68cab",
+        "android_client_info": {
+          "package_name": "com.example.webrctone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIPQ_siG1mh5ytZ6XIq8j82p3I3Gpgwq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
